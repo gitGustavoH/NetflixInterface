@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.gustavohenrique.interfacenetflix"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.gustavohenrique.interfacenetflix"

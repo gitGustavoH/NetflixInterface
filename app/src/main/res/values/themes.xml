@@ -11,6 +11,7 @@
         <item name="colorOnSecondary">@color/black</item>
 
         <item name="android:windowBackground">@color/fundo</item>
+        <item name="windowActionBar">@color/primaria</item>
     </style>
 
 
